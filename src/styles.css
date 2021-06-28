@@ -1,0 +1,47 @@
+body {
+  padding: 150px;
+  background-color: #191919;
+}
+
+h1 {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 60px;
+  max-width: 40%;
+  line-height: 1.2;
+  margin-top: 10px;
+  color: #f2f2f2;
+}
+
+h2 {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 30px;
+  max-width: 40%;
+  margin-top: 50px;
+  color: #f2f2f2;
+}
+
+p {
+  font-family: "Sintony", sans-serif;
+  font-size: 16px;
+  max-width: 40%;
+  color: #cecece;
+}
+
+i {
+  padding-right: 13px;
+}
+
+.link-icons {
+  padding-top: 25px;
+  font-size: 38px;
+}
+
+.link-icons a {
+  color: #f2f2f2;
+  transition: ease-in-out 300ms;
+}
+
+.link-icons a:hover {
+  cursor: crosshair;
+  color: #cecece;
+}
